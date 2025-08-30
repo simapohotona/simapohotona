@@ -7,7 +7,7 @@ Hello, I'm a passionate Front-End Developer currently learning through the **ALX
 To continuously enhance my skills, embrace emerging technologies, and strive for excellence in delivering software products that positively impact users and organizations.
 
 📍 **Location:** South Africa Johannesburg 
-🔗 **LinkedIn:** https://www.linkedin.com/posts/mosima-pohotona-564568277_alxabrse-learningjourney-alxabrfe-activity-7364740214616956928-kSLX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOJSxwBqSThtACCtW2MvWR1YEHM-skIv6I    
+🔗 **LinkedIn:** https://www.linkedin.com/in/mosima-pohotona-564568277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ---
 
